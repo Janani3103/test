@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "description": "AI-powered document processing to convert PDFs, scanned images, and text into structured JSON, editable tables, and CSV exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
